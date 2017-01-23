@@ -13,7 +13,7 @@ Please answer and provide responses to these questions by 4:00pm EST on January 
 
 * Do you believe you have the capability to effectively secure potentially sensitive government data that may come into your possession during the disclosure process?
 
-* Are  you interested in getting on a government wide vehicles in the future? 
+* Are  you interested in getting on a government wide vehicle in the future? 
 
   * If so, do you currently have resources in place to accommodate such a vehicle, or would you require time to expand?
 
