@@ -1,0 +1,42 @@
+RFQ_Number: "(Note: we will provide)"
+Company_Name: "Company"
+DUNS_Number: "XXXXXXXXX"
+POC_Name: "First Last"
+Total_Evaluated_Price: "$X"
+Date_of_Submission: "XX/XX/XXXX"
+Base_Period: "3 months"
+Optional_Periods: "2 Optional Periods consisting of 3 months each"
+Items:
+  - number: 0001
+    supplies_or_services: "Platform and Network Access"
+    quantity: 1
+    unit: "per month"
+    total_quantity: 3
+    unit_price: "$"
+    evaluated_price: "$(Note: unit_price times total_quantity)"
+    pricing_narrative: "(Please provide the reasoning behind your estimated price)"
+  - number: 0002
+    supplies_or_services: "Vulnerability Report Triage Services (one per App)"
+    quantity: 5
+    unit: "per month"
+    total_quantity: 15
+    unit_price: "$"
+    evaluated_price: "$(Note: unit_price times total_quantity)"
+    pricing_narrative: "(Please provide the reasoning behind your estimated price)"
+  - number: 0003
+    supplies_or_services: "Bounty Payouts - TTS"
+    quantity: 1
+    unit: "per month"
+    total_quantity: 3
+    unit_price: "$7,800"
+    ceiling_price: "$23,400"
+    pricing_narrative: "Using a breakdown of $300 for low-risk, $1,000 for medium-risk, and $5,000 for high-risk payouts, we are anticipating 6 low-risk, 1 medium-risk, and 1 high-risk payout per month."
+  - number: 0004
+    supplies_or_services: "Bounty Payouts - Login.gov"
+    quantity: 1
+    unit: "per month"
+    total_quantity: 3
+    unit_price: "$7,800"
+    ceiling_price: "$23,400"
+    pricing_narrative: "Using a breakdown of $300 for low-risk, $1,000 for medium-risk, and $5,000 for high-risk payouts, we are anticipating 6 low-risk, 1 medium-risk, and 1 high-risk payout per month."
+

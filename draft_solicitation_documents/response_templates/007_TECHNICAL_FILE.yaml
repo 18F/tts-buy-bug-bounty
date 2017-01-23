@@ -1,0 +1,38 @@
+RFQ_Number: #We will fill in
+Submission_Date:
+General_Company_and_Contact_Information:
+  Company_Name:
+  Company_Address:
+    Address_1:
+    Address_2:
+    City:
+    State:
+    Zipcode:
+  Company_Website_Address:
+  Company_Telephone_Number:
+  DUNS_Number:
+  Point_Of_Contact_Information:
+    First_Name:
+    Last_Name:
+    Telephone_Number:
+    Email_Address:
+  Authorized_Representative:
+    First_Name:
+    Last_Name:
+    Title:
+    Digital_Signature:
+Service_Platform_Metrics:
+  Number_of_security_researchers_on_the_platform:
+  Number_of_companies_who_run_bug_bounties_on_the_platform:
+  Does_the_platform_use_managed_triage_services_: #Please respond Y/N
+  For_managed_triage_services: # Only respond if above is Y
+    Average_time-to-triage_an_initial_report:
+    Average_time-to-respond_to_researcher_questions_or_follow-ups:
+Staffing_Plan: #Please add additional roles as necessary
+  - role: Engagement Manager
+    number_on_team: 1
+    description_of_role: The engagement manager will...
+
+
+
+
