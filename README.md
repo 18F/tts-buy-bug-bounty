@@ -1,6 +1,6 @@
 **This draft solicitation is for planning purposes ONLY. This request is NOT a solicitation. Please do NOT submit a proposal.**
 
-# Technology Transformation Services Bug Bounty Solicitation
+# DRAFT Technology Transformation Services Bug Bounty Solicitation
 The documents in this repository are draft solicitation documents. Please submit any questions as GitHub issues in this repository by January 30th, 2017 at 4:00PM EST. The TTS Contracting Officer will only be responding to questions submitted using the Issue Template. Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
 
 ## Questions for Potential Vendors
@@ -21,23 +21,23 @@ Please answer and provide responses to these questions by 4:00pm EST on January 
 
 ## Contents
 
-1. [Request for Offer (RFO)](draft_solicitation_documents/001_RFO.md)
+1. [DRAFT Request for Offer (RFO)](draft_solicitation_documents/001_RFO.md)
 
-2. [Addendum](draft_solicitation_documents/002_Addendum.md)
+2. [DRAFT Addendum](draft_solicitation_documents/002_Addendum.md)
 
-3. [Performance Work Statement (PWS)](draft_solicitation_documents/003_PWS.md)
+3. [DRAFT Performance Work Statement (PWS)](draft_solicitation_documents/003_PWS.md)
 
-4. [Performance Based Quality Assurance Surveillance Plan (QASP)](draft_solicitation_documents/004_QASP.md)
+4. [DRAFT Performance Based Quality Assurance Surveillance Plan (QASP)](draft_solicitation_documents/004_QASP.md)
 
-5. [NDA for the Company](draft_solicitation_documents/005_NDA_Company.md)
+5. [DRAFT NDA for the Company](draft_solicitation_documents/005_NDA_Company.md)
 
-6. [NDA for an Employee](draft_solicitation_documents/006_NDA_Employee.md)
+6. [DRAFT NDA for an Employee](draft_solicitation_documents/006_NDA_Employee.md)
 
-7. [Technical File](draft_solicitation_documents/response_templates/007_TECHNICAL_FILE.yaml)
+7. [DRAFT Technical File](draft_solicitation_documents/response_templates/007_TECHNICAL_FILE.yaml)
 
-8. [Pricing File](draft_solicitation_documents/response_templates/008_PRICING_FILE.yaml)
+8. [DRAFT Pricing File](draft_solicitation_documents/response_templates/008_PRICING_FILE.yaml)
 
-9. [Signature File](draft_solicitation_documents/response_templates/009_SIGNATURE_FILE.md)
+9. [DRAFT Signature File](draft_solicitation_documents/response_templates/009_SIGNATURE_FILE.md)
 
 ## Contributing
 
