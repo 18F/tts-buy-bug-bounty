@@ -5,7 +5,7 @@ The documents in this repository are draft solicitation documents. Please submit
 
 ## Questions for Potential Vendors
 
-Questions we would like answered include the following:
+Questions we would like answered, via email to michelle.mcnellis@gsa.gov, include the following:
 
 Please answer and provide responses to these questions by 4:00pm EST on January 30, 2017.
 
