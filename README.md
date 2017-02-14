@@ -1,6 +1,6 @@
 # TTS Bug Bounty
 
-The documents in this repository are posted to FBO under **ID**. The documents in FBO should always be considered the documents of record. Please submit any questions as GitHub issues in this repository by February 21, 2017 at 4:00pm EST. The TTS Contracting Officer will only be responding to questions submitted using the Issue Template. Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
+This solicitation is posted to FBO under **ID**. Please submit any questions as GitHub issues in this repository by February 21, 2017 at 4:00pm EST. The TTS Contracting Officer will only be responding to questions submitted using the Issue Template. Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
 
 **Proposals are due by February 28, 2017 at 4:00pm EST.**
 
