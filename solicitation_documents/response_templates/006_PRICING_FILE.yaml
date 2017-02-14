@@ -1,0 +1,43 @@
+# Indicates a comment for how to complete the pricing file
+
+RFQ_Number: #Note: we will provide)
+Company_Name:  #OFFEROR_TO_RESPOND, Format: “Company”
+DUNS_Number: #OFFEROR_TO_RESPOND, Format: Numbers only
+POC_Name: #OFFEROR_TO_RESPOND, Format: "First Last"
+Total_Evaluated_Price: #OFFEROR_TO_RESPOND, Format: Numbers only
+Date_of_Submission: #OFFEROR_TO_RESPOND, Format: “MM/DD/YYYY
+Base_Period: "3 months" #Note: Offeror will not change
+Optional_Periods: "2 Optional Periods consisting of 3 months each" #Note: Offeror will not change
+Contract_Line_Items:
+  - number: 0001 #Note: Offeror will not change
+    supplies_or_services: "Platform and Network Access" #Note: Offeror will not change
+    quantity: 1 #Note: Offeror will not change
+    unit: "per month" #Note: Offeror will not change
+    total_quantity: 3 #Note: Offeror will not change
+    unit_price: #OFFEROR_TO_RESPOND, Format: Numbers only please
+    evaluated_price: #OFFEROR_TO_RESPOND, Note: should equal unit_price times total_quantity | Format: Numbers only
+    pricing_narrative: #OFFEROR_TO_RESPOND, Note: Please provide the reasoning behind your estimated price
+  - number: 0002 #Note: Offeror will not change
+    supplies_or_services: "Vulnerability Report Triage Services (one per App)" #Note: Offeror will not change
+    quantity: 5 #Note: Offeror will not change
+    unit: "per month" #Note: Offeror will not change
+    total_quantity: 15 #Note: Offeror will not change
+    unit_price:  #OFFEROR_TO_RESPOND, Format: Numbers only
+    evaluated_price: #OFFEROR_TO_RESPOND, Note: should equal unit_price times total_quantity | Format: Numbers only
+    pricing_narrative: #OFFEROR_TO_RESPOND, Note: Please provide the reasoning behind your estimated price
+  - number: 0003  #Note: Offeror will not change
+    supplies_or_services: "Bounty Payouts - TTS" #Note: Offeror will not change
+    quantity: 1 #Note: Offeror will not change
+    unit: "per month" #Note: Offeror will not change
+    total_quantity: 3 #Note: Offeror will not change
+    unit_price: #OFFEROR_TO_RESPOND, Format: Numbers only
+    ceiling_price:  #OFFEROR_TO_RESPOND, Format: Numbers only
+    pricing_narrative: #OFFEROR_TO_RESPOND, Sample Text: Using a breakdown of $300 for low-risk, $1,000 for medium-risk, and $5,000 for high-risk payouts, we are anticipating 6 low-risk, 1 medium-risk, and 1 high-risk payout per month.
+  - number: 0004 #Note: Offeror will not change
+    supplies_or_services: "Bounty Payouts - Login.gov" #Note: Offeror will not change
+    quantity: 1 #Note: Offeror will not change
+    unit: "per month" #Note: Offeror will not change
+    total_quantity: 3 #Note: Offeror will not change
+    unit_price:  #OFFEROR_TO_RESPOND, Format: Numbers only
+    ceiling_price:  #OFFEROR_TO_RESPOND, Format: Numbers only
+    pricing_narrative: #"Sample Text: Using a breakdown of $300 for low-risk, $1,000 for medium-risk, and $5,000 for high-risk payouts, we are anticipating 6 low-risk, 1 medium-risk, and 1 high-risk payout per month."

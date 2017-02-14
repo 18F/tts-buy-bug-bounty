@@ -11,6 +11,7 @@ General_Company_and_Contact_Information:
   Company_Website_Address:
   Company_Telephone_Number:
   DUNS_Number:
+  Is_a_Small_Business: #Please respond Y/N
   Point_Of_Contact_Information:
     First_Name:
     Last_Name:
@@ -20,7 +21,6 @@ General_Company_and_Contact_Information:
     First_Name:
     Last_Name:
     Title:
-    Digital_Signature:
 Service_Platform_Metrics:
   Number_of_security_researchers_on_the_platform:
   Number_of_companies_who_run_bug_bounties_on_the_platform:
@@ -32,7 +32,3 @@ Staffing_Plan: #Please add additional roles as necessary
   - role: Engagement Manager
     number_on_team: 1
     description_of_role: The engagement manager will...
-
-
-
-
