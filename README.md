@@ -6,7 +6,7 @@ Proposals are due by February 28, 2017 at 4:00pm EST.
 
 ## Contents
 
-1. [Request for Quotation (RFO)](solicitation_documents/001_RFO.md)
+1. [Request for Quotation (RFO)](solicitation_documents/001_RFQ.md)
 
 2. [Addendum](solicitation_documents/002_Addendum.md)
 
