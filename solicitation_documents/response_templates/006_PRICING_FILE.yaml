@@ -1,6 +1,6 @@
 # Indicates a comment for how to complete the pricing file
 
-RFQ_Number: #Note: we will provide)
+RFQ_Number: TTS_Bug_Bounty
 Company_Name:  #OFFEROR_TO_RESPOND, Format: “Company”
 DUNS_Number: #OFFEROR_TO_RESPOND, Format: Numbers only
 POC_Name: #OFFEROR_TO_RESPOND, Format: "First Last"
