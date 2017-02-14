@@ -1,48 +1,28 @@
-**This draft solicitation is for planning purposes ONLY. This request is NOT a solicitation. Please do NOT submit a proposal.**
+# TTS Bug Bounty
 
-# DRAFT Technology Transformation Services Bug Bounty Solicitation
-The documents in this repository are draft solicitation documents. Please submit any questions as GitHub issues in this repository by January 30th, 2017 at 4:00PM EST. The TTS Contracting Officer will only be responding to questions submitted using the Issue Template. Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
+This solicitation is posted to FBO under **TTS_Bug_Bounty**. Please submit any questions as GitHub issues in this repository by February 21, 2017 at 4:00pm EST. The TTS Contracting Officer will only be responding to questions submitted using the Issue Template. Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
 
-## Questions for Potential Vendors
-
-Questions we would like answered, via email to michelle.mcnellis@gsa.gov, include the following:
-
-Please answer and provide responses to these questions by 4:00pm EST on January 30, 2017.
-
-* If you do not intend to bid on this solicitation, can you explain why?
-
-* Do you believe you have the capability to effectively secure potentially sensitive government data that may come into your possession during the disclosure process?
-
-* Are  you interested in getting on a government wide vehicle in the future? 
-
-  * If so, do you currently have resources in place to accommodate such a vehicle, or would you require time to expand?
-
-  * If you are interested but do not currently have resources in place or need time to expand, what is your estimated time to have resources and capacity to support a government wide program?
+**Proposals are due by February 28, 2017 at 4:00pm EST.**
 
 ## Contents
 
-1. [DRAFT Request for Offer (RFO)](draft_solicitation_documents/001_RFO.md)
+1. [Request for Quotation (RFQ)](solicitation_documents/001_RFQ.md)
 
-2. [DRAFT Addendum](draft_solicitation_documents/002_Addendum.md)
+2. [Addendum](solicitation_documents/002_Addendum.md)
 
-3. [DRAFT Performance Work Statement (PWS)](draft_solicitation_documents/003_PWS.md)
+3. [Performance Work Statement (PWS)](solicitation_documents/003_PWS.md)
 
-4. [DRAFT Performance Based Quality Assurance Surveillance Plan (QASP)](draft_solicitation_documents/004_QASP.md)
+4. [Performance Based Quality Assurance Surveillance Plan (QASP)](solicitation_documents/004_QASP.md)
 
-5. [DRAFT NDA for the Company](draft_solicitation_documents/005_NDA_Company.md)
+5. [Technical File](solicitation_documents/response_templates/005_TECHNICAL_FILE.yaml)
 
-6. [DRAFT NDA for an Employee](draft_solicitation_documents/006_NDA_Employee.md)
+6. [Pricing File](solicitation_documents/response_templates/006_PRICING_FILE.yaml)
 
-7. [DRAFT Technical File](draft_solicitation_documents/response_templates/007_TECHNICAL_FILE.yaml)
-
-8. [DRAFT Pricing File](draft_solicitation_documents/response_templates/008_PRICING_FILE.yaml)
-
-9. [DRAFT Signature File](draft_solicitation_documents/response_templates/009_SIGNATURE_FILE.md)
+7. [Signature File](solicitation_documents/response_templates/007_SIGNATURE_FILE.md)
 
 ## Contributing
 
 See [CONTRIBUTING](CONTRIBUTING.md) for additional information.
-
 
 ## Public domain
 
