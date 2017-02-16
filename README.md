@@ -4,6 +4,26 @@ This solicitation is posted to FBO under **TTS_Bug_Bounty**. Please submit any q
 
 **Proposals are due by February 28, 2017 at 4:00pm EST.**
 
+## Background
+
+As part of its programmatic focus on security, the Technology Transformation Service (TTS) needs to purchase access to a pre-existing, commercially available Bug Bounty SaaS Platform that will allow it to launch and manage the TTS Bug Bounty program. This acquisition will give TTS access to a large network of security researchers, people who have an interest - both personally and financially - in helping to find and address bugs and other technical issues within TTS-owned web applications.
+
+### What we're hoping to end up with
+
+The purpose of this solicitation is for the contractor to deliver a Bug Bounty program which TTS will utilize for TTS-owned web applications. The contractor will provide access to their Bug Bounty SaaS Platform for researchers to report vulnerabilities (“Platform/Network Access”) and allow TTS to manage and track issues across multiple public web applications, triage services for those reported vulnerabilities, disburse rewards for effective vulnerabilities, and explain the reasons behind rejections (“Vulnerability Report Triage Services”).
+
+### How to respond
+
+Detailed instructions about how to respond and how to use our [response templates](solicitation_documents/response_templates) are explained in [section 7.0 of our RFQ](solicitation_documents/001_RFQ.md#70-quotation-instructions).
+
+### Key personnel
+
+Details about what we're looking for in a Technical Account Manager are explained in [section 6.1 of our PWS](solicitation_documents/003_PWS.md#61-key-personnel).
+
+### Period of performance
+
+There will be a Base Period of 3 months and two Option Periods of 3 months each. Details, including the official start date, are explined in [section 3.0 of our RFQ](solicitation_documents/001_RFQ.md#30-period-of-performance).
+
 ## Contents
 
 1. [Request for Quotation (RFQ)](solicitation_documents/001_RFQ.md)
