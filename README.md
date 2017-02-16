@@ -22,7 +22,7 @@ Details about what we're looking for in a Technical Account Manager are explaine
 
 ### Period of performance
 
-There will be a Base Period of 3 months and two Option Periods of 3 months each. Details, including the official start date, are explined in [section 3.0 of our RFQ](solicitation_documents/001_RFQ.md#30-period-of-performance).
+There will be a Base Period of 3 months and two Option Periods of 3 months each. Details, including the official start date, are explained in [section 3.0 of our RFQ](solicitation_documents/001_RFQ.md#30-period-of-performance).
 
 ## Contents
 
