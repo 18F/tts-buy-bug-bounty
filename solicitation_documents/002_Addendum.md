@@ -66,48 +66,6 @@ GSA Acquisition Manual:
 
 ## Provisions Incorporated in Full Text
 
-### 52.209-7 – Information Regarding Responsibility Matters
-
-As prescribed in 9.104-7(b), insert the following provision:
-
-  Information Regarding Responsibility Matters (Jul 2013)
-
-(a) Definitions. As used in this provision—
-
-“Administrative proceeding” means a non-judicial process that is adjudicatory in nature in order to make a determination of fault or liability (e.g., Securities and Exchange Commission Administrative Proceedings, Civilian Board of Contract Appeals Proceedings, and Armed Services Board of Contract Appeals Proceedings). This includes administrative proceeding at the Federal and State level but only in connection with performance of a Federal contract or grant. It does not include agency actions such as contract audits, site visits, corrective plans, or inspection of deliverables.
-
-“Federal contracts and grants with total value greater than $10,000,000” means—
-
-* (1) The total value of all current, active contracts and grants, including all priced options; and
-
-* (2) The total value of all current, active orders including all priced options under indefinite-delivery, indefinite-quantity, 8(a), or requirements contracts (including task and delivery and multiple-award Schedules).
-
-“Principal” means an officer, director, owner, partner, or a person having primary management or supervisory responsibilities within a business entity (e.g., general manager; plant manager; head of a division or business segment; and similar positions).
-
-(b) The offeror [ ] has [ ] does not have current active Federal contracts and grants with total value greater than $10,000,000.
-
-(c) If the offeror checked “has” in paragraph (b) of this provision, the offeror represents, by submission of this offer, that the information it has entered in the Federal Awardee Performance and Integrity Information System (FAPIIS) is current, accurate, and complete as of the date of submission of this offer with regard to the following information:
-
-  (1) Whether the offeror, and/or any of its principals, has or has not, within the last five years, in connection with the award to or performance by the offeror of a Federal contract or grant, been the subject of a proceeding, at the Federal or State level that resulted in any of the following dispositions:
-
-    (i) In a criminal proceeding, a conviction.
-
-    (ii) In a civil proceeding, a finding of fault and liability that results in the payment of a monetary fine, penalty, reimbursement, restitution, or damages of $5,000 or more.
-
-    (iii) In an administrative proceeding, a finding of fault and liability that results in—
-
-      (A) The payment of a monetary fine or penalty of $5,000 or more; or
-      
-      (B) The payment of a reimbursement, restitution, or damages in excess of $100,000.
-
-    (iv) In a criminal, civil, or administrative proceeding, a disposition of the matter by consent or compromise with an acknowledgment of fault by the Contractor if the proceeding could have led to any of the outcomes specified in paragraphs (c)(1)(i), (c)(1)(ii), or (c)(1)(iii) of this provision.
-
-  (2) If the offeror has been involved in the last five years in any of the occurrences listed in (c)(1) of this provision, whether the offeror has provided the requested information with regard to each occurrence.
-
-(d) The offeror shall post the information in paragraphs (c)(1)(i) through (c)(1)(iv) of this provision in FAPIIS as required through maintaining an active registration in the System for Award Management database via https://www.acquisition.gov (see 52.204-7).
-
-**(End of Provision)**
-
 ### 52.203-18 – Prohibition on Contracting with Entities that Require Certain Internal Confidentiality Agreements or Statements--Representation.
 
 As prescribed in 3.909-3(a), insert the following provision:
@@ -177,6 +135,8 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
   (8) 52.209-6, Protecting the Government’s Interest When Subcontracting with Contractors Debarred, Suspended, or Proposed for Debarment (Oct 2015) (31 U.S.C. 6101 note).
    
   (14) (i) 52.219-6, Notice of Total Small Business Aside (Nov 2011) (15 U.S.C. 644).
+  
+  (18) 52.219-13, Notice of Set-Aside of Orders (Nov 2011) (15 U.S.C. 644(r)).
    
   (19) 52.219-14, Limitations on Subcontracting (Nov 2011) (15 U.S.C. 637(a)(14)).
    
@@ -197,6 +157,8 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
   (32) 52.222-40, Notification of Employee Rights Under the National Labor Relations Act (Dec 2010) (E.O. 13496).
    
   (33) (i) 52.222-50, Combating Trafficking in Persons (Mar 2015) (22 U.S.C. chapter 78 and E.O. 13627).
+  
+  (34) 52.222-54, Employment Eligibility Verification (Oct 2015). (E. O. 12989).
    
   (44) 52.223-18, Encouraging Contractor Policies to Ban Text Messaging while Driving (Aug 2011) (E.O. 13513).
    
@@ -266,7 +228,7 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 ### 52.212-3 Offeror Representations and Certifications -- Commercial Items (Jan 2017)
 
-The offeror shall complete only paragraphs (b) of this provision if the Offeror has completed the annual representations and certification electronically via the System for Award Management (SAM) Web site accessed through [http://www.sam.gov/portal](http://www.sam.gov/portal). The offeror shall complete only paragraphs (b) of this provision if the Offeror has completed the annual representations and certification electronically via the System for Award Management (SAM) Web site located at [http://www.sam.gov/portal](http://www.sam.gov/portal). If the Offeror has not completed the annual representations and certifications electronically, the Offeror shall complete only paragraphs (c) through (u) of this provision.
+**The offeror shall complete only paragraphs (b) of this provision if the Offeror has completed the annual representations and certification electronically via the System for Award Management (SAM) Web site accessed through [http://www.sam.gov/portal](http://www.sam.gov/portal).** The offeror shall complete only paragraphs (b) of this provision if the Offeror has completed the annual representations and certification electronically via the System for Award Management (SAM) Web site located at [http://www.sam.gov/portal](http://www.sam.gov/portal). If the Offeror has not completed the annual representations and certifications electronically, the Offeror shall complete only paragraphs (c) through (u) of this provision.
 
 (a) Definitions. As used in this provision -
 
@@ -472,11 +434,11 @@ Sensitive technology -
 
 **Note to paragraph (a):** By a court order issued on October 24, 2016, the following definitions in this paragraph (a) are enjoined indefinitely as of the date of the order: “Administrative merits determination”, “Arbitral award or decision”, paragraph (2) of “Civil judgment”, “DOL Guidance”, “Enforcement agency”, “Labor compliance agreement”, “Labor laws”, and “Labor law decision”. The enjoined definitions will become effective immediately if the court terminates the injunction. At that time, DoD, GSA, and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.
 
-(b)
+**(b)**
 
-  (1) Annual Representations and Certifications. Any changes provided by the offeror in paragraph (b)(2) of this provision do not automatically change the representations and certifications posted on the SAMwebsite.
+  **(1) Annual Representations and Certifications. Any changes provided by the offeror in paragraph (b)(2) of this provision do not automatically change the representations and certifications posted on the SAM website.**
 
-  (2) The offeror has completed the annual representations and certifications electronically via the SAM website accessed through [https://www.acquisition.gov/](https://www.acquisition.gov/). After reviewing the SAM database information, the offeror verifies by submission of this offer that the representation and certifications currently posted electronically at FAR 52.212-3, Offeror Representations and Certifications—Commercial Items, have been entered or updated in the last 12 months, are current, accurate, complete, and applicable to this solicitation (including the business size standard applicable to the NAICS code referenced for this solicitation), as of the date of this offer and are incorporated in this offer by reference (see FAR 4.1201), except for paragraphs ____________. [Offeror to identify the applicable paragraphs at (c) through (u) of this provision that the offeror has completed for the purposes of this solicitation only, if any. These amended representation(s) and/or certification(s) are also incorporated in this offer and are current, accurate, and complete as of the date of this offer. Any changes provided by the offeror are applicable to this solicitation only, and do not result in an update to the representations and certifications posted electronically on SAM.]
+  **(2) The offeror has completed the annual representations and certifications electronically via the SAM website accessed through [https://www.acquisition.gov/](https://www.acquisition.gov/). After reviewing the SAM database information, the offeror verifies by submission of this offer that the representation and certifications currently posted electronically at FAR 52.212-3, Offeror Representations and Certifications—Commercial Items, have been entered or updated in the last 12 months, are current, accurate, complete, and applicable to this solicitation (including the business size standard applicable to the NAICS code referenced for this solicitation), as of the date of this offer and are incorporated in this offer by reference (see FAR 4.1201), except for paragraphs ____________. [Offeror to identify the applicable paragraphs at (c) through (u) of this provision that the offeror has completed for the purposes of this solicitation only, if any. These amended representation(s) and/or certification(s) are also incorporated in this offer and are current, accurate, and complete as of the date of this offer. Any changes provided by the offeror are applicable to this solicitation only, and do not result in an update to the representations and certifications posted electronically on SAM.]**
 
 (c) Offerors must complete the following representations when the resulting contract is to be performed in the United States or its outlying areas. Check all that apply.
 
