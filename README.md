@@ -1,12 +1,12 @@
 # TTS Bug Bounty
 
-This solicitation is posted to FBO under **TTS_Bug_Bounty**. Please submit any questions as GitHub issues in this repository by February 21, 2017 at 4:00pm EST. The TTS Contracting Officer will only be responding to questions submitted using the Issue Template. Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
+This solicitation is posted to FBO under [**TTS_Bug_Bounty**](https://www.fbo.gov/notices/e21b0d5dd866c3bf82c9013e24272403). Please submit any questions as GitHub issues in this repository by February 21, 2017 at 4:00pm EST. The TTS Contracting Officer will only be responding to questions submitted using the Issue Template. Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
 
 **Proposals are due by February 28, 2017 at 4:00pm EST.**
 
 ## Background
 
-As part of its programmatic focus on security, the Technology Transformation Service (TTS) needs to purchase access to a pre-existing, commercially available Bug Bounty SaaS Platform that will allow it to launch and manage the TTS Bug Bounty program. This acquisition will give TTS access to a large network of security researchers, people who have an interest - both personally and financially - in helping to find and address bugs and other technical issues within TTS-owned web applications.
+As part of its programmatic focus on security, the [Technology Transformation Service](https://www.gsa.gov/portal/category/25729) (TTS) needs to purchase access to a pre-existing, commercially available Bug Bounty SaaS Platform that will allow it to launch and manage the TTS Bug Bounty program. This acquisition will give TTS access to a large network of security researchers, people who have an interest - both personally and financially - in helping to find and address bugs and other technical issues within TTS-owned web applications.
 
 ### What we're hoping to end up with
 
