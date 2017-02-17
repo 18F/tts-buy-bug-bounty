@@ -113,11 +113,7 @@ The contractor’s invoice will be submitted monthly for work performed the prio
 
 ### 4.2 Invoice Submission
 
-All invoicing shall be done electronically. Password and electronic invoice access may be obtained through the AASBS web portal.
-
-The Invoice and the Status Reports for the applicable billing period shall be entered into the AASBS portal within 5 to 10 calendar days after the end of the month. The contractor shall submit invoices electronically by logging into the AASBS portal ([https://portal.fas.gsa.gov](https://portal.fas.gsa.gov/)), navigating to the appropriate order, and creating the invoice for that order and attach a copy of invoice, status reports with all required back-up documentation as applicable.
-
-The contractor shall NOT submit any invoices directly to the GSA Finance Center (neither by mail nor via electronic submission). If the invoices are acceptable, then the CO/COR will approve them for payment and complete the information in the AASBS portal.
+All invoicing shall be submitted by email to the COR and CO within 10 days after the end of the month. The contractor shall NOT submit any invoices directly to the GSA Finance Center  If the invoices are acceptable, then he CO/COR will approve them for payment and complete the information.
 
 ### 4.3 Final Invoice
 
