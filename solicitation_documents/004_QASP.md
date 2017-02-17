@@ -113,7 +113,7 @@ The contractor’s invoice will be submitted monthly for work performed the prio
 
 ### 4.2 Invoice Submission
 
-All invoicing shall be submitted by email to the COR and CO within 10 days after the end of the month. The contractor shall NOT submit any invoices directly to the GSA Finance Center  If the invoices are acceptable, then he CO/COR will approve them for payment and complete the information.
+All invoicing shall be submitted by email to the COR and CO within 10 days after the end of the month. The contractor shall NOT submit any invoices directly to the GSA Finance Center. If the invoices are acceptable, then he CO/COR will approve them for payment and complete the information.
 
 ### 4.3 Final Invoice
 
