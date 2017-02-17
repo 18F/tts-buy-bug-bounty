@@ -40,7 +40,7 @@ There will be a Base Period of 3 months and two Option Periods of 3 months each.
 
 7. [Signature File](solicitation_documents/response_templates/007_SIGNATURE_FILE.md)
 
-8. [SF30- Bug Bounty- 001.pdf](solicitation_documents/SF30-%20Bug%20Bounty-%20001.pdf)
+8. [SF30 Amendment 001](solicitation_documents/SF30-%20Bug%20Bounty-%20001.pdf)
 
 ## Contributing
 
