@@ -4,7 +4,7 @@ This repository was created in the hopes that government agencies -- from Federa
 
 ## Background
 
-As part of its programmatic focus on security, the [Technology Transformation Service](https://www.gsa.gov/portal/category/25729) (TTS) needs to purchase access to a pre-existing, commercially available Bug Bounty SaaS Platform that will allow it to launch and manage the TTS Bug Bounty program. This acquisition will give TTS access to a large network of security researchers, people who have an interest - both personally and financially - in helping to find and address bugs and other technical issues within TTS-owned web applications.
+As part of its programmatic focus on security, the [Technology Transformation Service](https://www.gsa.gov/portal/category/25729) (TTS) had to purchase access to a pre-existing, commercially available Bug Bounty SaaS Platform that would allow it to launch and manage the TTS Bug Bounty program. The purpose of this acquisition was to give TTS access to a large network of security researchers, people who have an interest - both personally and financially - in helping to find and address bugs and other technical issues within TTS-owned web applications.
 
 ### What we're hoping to end up with
 
