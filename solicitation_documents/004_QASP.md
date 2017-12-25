@@ -18,7 +18,7 @@ The CO/COR will evaluate the performance objectives through surveillance as refl
 --- | --- | --- | ---
 Vulnerability Reports | Average time-to-triage initial reports | > 95% triaged within 1 business day | Timestamps within platform and information included in monthly report
 Vulnerability Reports | Triage accuracy | 90% of valid reports triaged correctly | TTS manual assessment of report triage and concurrence with the severity rating and category
-Vulnerability Reports | Minimal false negatives | No more than 5% false negatives (alid reports improperly classified as invalid or duplicate) | TTS manual assessment of report triage and concurrence with the severity rating and category
+Vulnerability Reports | Minimal false negatives | No more than 5% false negatives (valid reports improperly classified as invalid or duplicate) | TTS manual assessment of report triage and concurrence with the severity rating and category
 
 ### 2.2 PROCEDURES
 
