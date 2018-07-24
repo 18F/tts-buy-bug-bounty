@@ -582,7 +582,7 @@ milestones, and performance metrics) and top-line spending data.
 # 12.0 Attachments 
 
 [<span class="underline">See Addendum - Commercial Contract
-Clauses</span>](Addendum\ -\ Commercial\ Contract\ Clauses.md)
+Clauses</span>](https://github.com/18F/tts-buy-bug-bounty/blob/master/solicitation_documents/Addendum%20-%20Commercial%20Contract%20Clauses.md)
 
 [<span class="underline">Quality Assurance Surveillance
 Plan</span>](QASP.md)
