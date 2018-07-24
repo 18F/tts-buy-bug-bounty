@@ -7,4 +7,4 @@
 {please be specific about the section of the RFQ documents you have a question or comment about, if applicable}  
 
 ## Question/Comment
-{ask away!}
+{ask away}
