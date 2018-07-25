@@ -56,7 +56,7 @@ Platforms typically provide triage services as a separate option, so this means 
 
 Most of the US government does not have a defined method by which vulnerabilities can be reported and the reporters rewarded. To address this situation for itself, TTS has recently released a vulnerability disclosure policy and needs to create a Bug Bounty program in order to incentivize security researchers and other interested users to report security issues directly to the system owner. While this policy and Bug Bounty program are specifically for TTS only - they will not involve GSA in general or the government as a whole - successful implementation will potentially serve as the model for other agencies.
 
-[The purpose](solicitation_documents/003_PWS.md#30-scope) of this solicitation, as stated in the Performance Work Statement (PWS), is for the contractor to deliver a Bug Bounty program which TTS will utilize for TTS-owned web applications. The contractor will provide access to their Bug Bounty SaaS Platform for researchers to report vulnerabilities (“Platform/Network Access”) and allow TTS to manage and track issues across multiple public web applications, triage services for those reported vulnerabilities, disburse rewards for effective vulnerabilities, and explain the reasons behind rejections (“Vulnerability Report Triage Services”).
+[The purpose](2017-procurement/003_PWS.md#30-scope) of this solicitation, as stated in the Performance Work Statement (PWS), is for the contractor to deliver a Bug Bounty program which TTS will utilize for TTS-owned web applications. The contractor will provide access to their Bug Bounty SaaS Platform for researchers to report vulnerabilities (“Platform/Network Access”) and allow TTS to manage and track issues across multiple public web applications, triage services for those reported vulnerabilities, disburse rewards for effective vulnerabilities, and explain the reasons behind rejections (“Vulnerability Report Triage Services”).
 
 For the Platform Access, GSA IT has already begun the approval process for the three known contractors in the industry. For the Vulnerability Report Triage Services, they must be provided on a “per web application” basis, allowing TTS to operate a Bug Bounty for a web application independently of the other web applications that are utilizing the Platform/Network Access for their own tests. As part of these services, the contractor must provide staff who are specialists in reviewing vulnerability reports and communicating with researchers.
 
@@ -124,7 +124,7 @@ Should-cost analysis, as defined in FAR Subpart 15.407-4, will not be performed 
 
 ## 7.105(a)(4) Capability or Performance Conditions
 
-The government will use the attached [Quality Assurance Surveillance Plan](solicitation_documents/004_QASP.md) (“QASP”) to monitor the contractor’s performance. The QASP will provide oversight help to ensure that service levels reach and maintain the required levels for performance of this task. Further, the QASP provides the government with a proactive way to avoid unacceptable or deficient performance, and provides verifiable input for the required Past Performance Information Assessments. The QASP is a living document and may be updated by the government as necessary. Any updates to the QASP will be provided to the contractor.
+The government will use the attached [Quality Assurance Surveillance Plan](2017-procurement/004_QASP.md) (“QASP”) to monitor the contractor’s performance. The QASP will provide oversight help to ensure that service levels reach and maintain the required levels for performance of this task. Further, the QASP provides the government with a proactive way to avoid unacceptable or deficient performance, and provides verifiable input for the required Past Performance Information Assessments. The QASP is a living document and may be updated by the government as necessary. Any updates to the QASP will be provided to the contractor.
 
 ## 7.105(a)(5) Delivery or Performance-period Requirements
 
@@ -390,7 +390,7 @@ This requirement does not include any inherently governmental or critical functi
 
 ## 7.105(b)(11) Management Information Requirements
 
-In accordance with the [Quality Assurance Surveillance Plan](solicitation_documents/004_QASP.md) (“QASP”), the government will management the contractor’s performance as detailed within the document.
+In accordance with the [Quality Assurance Surveillance Plan](2017-procurement/004_QASP.md) (“QASP”), the government will management the contractor’s performance as detailed within the document.
 
 ## 7.105(b)(12) Make or Buy
 
@@ -404,7 +404,7 @@ Finally, In accordance with [FAR 15.407-2(c)](https://www.acquisition.gov/sites/
 
 ## 7.105(b)(13) Test and Evaluation
 
-The [Quality Assurance Surveillance Plan](solicitation_documents/004_QASP.md) (“QASP”) specifies particular testing and documentation that the government has determined will lead to positive outcomes from the vendor.
+The [Quality Assurance Surveillance Plan](2017-procurement/004_QASP.md) (“QASP”) specifies particular testing and documentation that the government has determined will lead to positive outcomes from the vendor.
 
 ## 7.105(b)(14) Logistics Considerations
 
@@ -416,7 +416,7 @@ There are no contractor or agency support assumptions.
 
 The contractor shall indicate the warranty period and license period of any software provided throughout the life cycle of this purchase order requirement.
 
-The government will use a [Quality Assurance Surveillance Plan](solicitation_documents/004_QASP.md) (“QASP”) to monitor the contractor’s performance. The QASP will provide oversight help to ensure that service levels reach and maintain the required levels for performance of this task. Further, the QASP provides the government with a proactive way to avoid unacceptable or deficient performance, and provides verifiable input for the required Past Performance Information Assessments. The QASP is a living document and may be updated by the government as necessary. Any updates to the QASP will be provided to the contractor.
+The government will use a [Quality Assurance Surveillance Plan](2017-procurement/004_QASP.md) (“QASP”) to monitor the contractor’s performance. The QASP will provide oversight help to ensure that service levels reach and maintain the required levels for performance of this task. Further, the QASP provides the government with a proactive way to avoid unacceptable or deficient performance, and provides verifiable input for the required Past Performance Information Assessments. The QASP is a living document and may be updated by the government as necessary. Any updates to the QASP will be provided to the contractor.
 
 ### Data Rights and Ownership of Deliverables
 
@@ -475,11 +475,11 @@ This acquisition will be administered by the following individuals:
 
 ### Standard
 
-Please see Section 2.0 of the attached [Quality Assurance Surveillance Plan](solicitation_documents/004_QASP.md) (“QASP”).
+Please see Section 2.0 of the attached [Quality Assurance Surveillance Plan](2017-procurement/004_QASP.md) (“QASP”).
 
 ## 7.105(b)(20) Other Considerations
 
-[See attached Addendum with additional contract clauses](solicitation_documents/002_Addendum.md).
+[See attached Addendum with additional contract clauses](2017-procurement/002_Addendum.md).
 
 ## 7.105(b) (21) Milestones for the Acquisition Cycle Applicable Milestones
 

@@ -1,6 +1,6 @@
 **General Services Administration **
 
-Federal Acquisition Service  
+Federal Acquisition Service
 Technology Transformation Services
 
 1800 F St NW | Washington, DC | 20405
@@ -11,10 +11,10 @@ Bug Bounty 2
 
 TCTOA-18-0013
 
-**From:** Michelle McNellis, Contracting Officer, GSA TTS  
+**From:** Michelle McNellis, Contracting Officer, GSA TTS
 **Subject:** Request for Quotation (RFQ)
 
-**Date:** July 24, 2018  
+**Date:** July 24, 2018
 **Reply By:** **August 07, 2018** **4:00PM EST**
 
 **Document Type:** Combined Synopsis/Solicitation Solicitation
@@ -212,15 +212,15 @@ will:
 
   - > Triage of severity of reported vulnerabilities. The contractor
     > will provide services to:
-    
+
       - > Screen reported vulnerabilities and filter out invalid and
         > duplicate reports.
-    
+
       - > Classify vulnerabilities according to TTS guidelines developed
         > for the vendor and assign them to the proper TTS staff, while
         > TTS maintains the rights to update these guidelines at any
         > time.
-    
+
       - > Communicate with researchers about their reports, escalating
         > to TTS staff if needed.
 
@@ -440,7 +440,7 @@ average time to triage a new report, average time to respond to
 researchers, average time to forward verified reports based on severity,
 etc.
 
-## 5.2 - Phase 2 Price Evaluation 
+## 5.2 - Phase 2 Price Evaluation
 
 Prices shall be submitted via the [<span class="underline">Price
 Evaluation Form</span>](https://goo.gl/forms/Vmvv6CRXLzMBpwLd2).
@@ -579,10 +579,10 @@ of price). During the performance of this task order, TTS may similarly
 publish data related to project management (e.g. user stories,
 milestones, and performance metrics) and top-line spending data.
 
-# 12.0 Attachments 
+# 12.0 Attachments
 
 [<span class="underline">See Addendum - Commercial Contract
-Clauses</span>](https://github.com/18F/tts-buy-bug-bounty/blob/master/solicitation_documents/Addendum%20-%20Commercial%20Contract%20Clauses.md)
+Clauses</span>](https://github.com/18F/tts-buy-bug-bounty/blob/master/2018-procurement/Addendum%20-%20Commercial%20Contract%20Clauses.md)
 
 [<span class="underline">Quality Assurance Surveillance
 Plan</span>](QASP.md)
