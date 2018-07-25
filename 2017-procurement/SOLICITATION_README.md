@@ -14,33 +14,33 @@ The purpose of this solicitation is for the contractor to deliver a Bug Bounty p
 
 ### How to respond
 
-Detailed instructions about how to respond and how to use our [response templates](solicitation_documents/response_templates) are explained in [section 7.0 of our RFQ](solicitation_documents/001_RFQ.md#70-quotation-instructions).
+Detailed instructions about how to respond and how to use our [response templates](2017-procurement/response_templates) are explained in [section 7.0 of our RFQ](2017-procurement/001_RFQ.md#70-quotation-instructions).
 
 ### Key personnel
 
-Details about what we're looking for in a Technical Account Manager are explained in [section 6.1 of our PWS](solicitation_documents/003_PWS.md#61-key-personnel).
+Details about what we're looking for in a Technical Account Manager are explained in [section 6.1 of our PWS](2017-procurement/003_PWS.md#61-key-personnel).
 
 ### Period of performance
 
-There will be a Base Period of 3 months and two Option Periods of 3 months each. Details, including the official start date, are explained in [section 3.0 of our RFQ](solicitation_documents/001_RFQ.md#30-period-of-performance).
+There will be a Base Period of 3 months and two Option Periods of 3 months each. Details, including the official start date, are explained in [section 3.0 of our RFQ](2017-procurement/001_RFQ.md#30-period-of-performance).
 
 ## Contents
 
-1. [Request for Quotation (RFQ)](solicitation_documents/001_RFQ.md)
+1. [Request for Quotation (RFQ)](2017-procurement/001_RFQ.md)
 
-2. [Addendum](solicitation_documents/002_Addendum.md)
+2. [Addendum](2017-procurement/002_Addendum.md)
 
-3. [Performance Work Statement (PWS)](solicitation_documents/003_PWS.md)
+3. [Performance Work Statement (PWS)](2017-procurement/003_PWS.md)
 
-4. [Performance Based Quality Assurance Surveillance Plan (QASP)](solicitation_documents/004_QASP.md)
+4. [Performance Based Quality Assurance Surveillance Plan (QASP)](2017-procurement/004_QASP.md)
 
-5. [Technical File](solicitation_documents/response_templates/005_TECHNICAL_FILE.yaml)
+5. [Technical File](2017-procurement/response_templates/005_TECHNICAL_FILE.yaml)
 
-6. [Pricing File](solicitation_documents/response_templates/006_PRICING_FILE.yaml)
+6. [Pricing File](2017-procurement/response_templates/006_PRICING_FILE.yaml)
 
-7. [Signature File](solicitation_documents/response_templates/007_SIGNATURE_FILE.md)
+7. [Signature File](2017-procurement/response_templates/007_SIGNATURE_FILE.md)
 
-8. [SF30 Amendment 001](solicitation_documents/SF30-%20Bug%20Bounty-%20001.pdf)
+8. [SF30 Amendment 001](2017-procurement/SF30-%20Bug%20Bounty-%20001.pdf)
 
 ## Contributing
 
