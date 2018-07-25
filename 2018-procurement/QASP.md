@@ -1,6 +1,6 @@
 **General Services Administration **
 
-Federal Acquisition Service  
+Federal Acquisition Service
 Technology Transformation Services
 
 1800 F St NW | Washington, DC | 20405
