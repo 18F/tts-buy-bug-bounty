@@ -166,7 +166,7 @@ U. S. Code, Section 552a and applicable agency rules and regulations.
 the scope of the acquisition and PII data is not expected to be stored
 in the vendor's SaaS solution. The contractor shall prepare a Privacy
 Threshold Analysis (PTA) to either document PII is not in scope, or
-determine which caetgories of information will be stored, processed, or
+determine which categories of information will be stored, processed, or
 transmitted by the system. The use of any information that is subject to
 the Privacy Act will be utilized in full accordance with all rules of
 conduct as applicable to Privacy Act Information.
