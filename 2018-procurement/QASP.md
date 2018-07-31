@@ -1,4 +1,4 @@
-**General Services Administration **
+**General Services Administration**
 
 Federal Acquisition Service
 Technology Transformation Services
