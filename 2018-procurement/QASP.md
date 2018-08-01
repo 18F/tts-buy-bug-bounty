@@ -28,7 +28,7 @@ The contractor is responsible for management and quality control actions
 to meet the terms of the contract. The role of the CO/COR is quality
 assurance to ensure contract standards are achieved. The contractor
 shall perform all work required in a satisfactory manner in accordance
-with the requirements of the PWS. The COR shall notify the CO for
+with the requirements of the RFQ. The COR shall notify the CO for
 appropriate action if it is likely that the contractor will not achieve
 successful final delivery of the software code in accordance with the
 performance objectives and acceptable quality levels (AQLs) identified
@@ -121,7 +121,7 @@ re-performance, the Government may:
 ## 2.3 Acceptance of Services
 
 Acceptance of services shall be based upon compliance with performance
-standards described in the PWS and surveillance procedures described in
+standards described in the RFQ and surveillance procedures described in
 this QASP. Before approving/certifying any contractor invoices, the
 CO/COR will verify that all invoiced services have been performed in
 compliance with call order requirements. The CO/COR shall not certify
