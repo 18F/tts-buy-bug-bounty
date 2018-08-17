@@ -56,7 +56,7 @@ Platforms typically provide triage services as a separate option, so this means 
 
 Most of the US government does not have a defined method by which vulnerabilities can be reported and the reporters rewarded. To address this situation for itself, TTS has recently released a vulnerability disclosure policy and needs to create a Bug Bounty program in order to incentivize security researchers and other interested users to report security issues directly to the system owner. While this policy and Bug Bounty program are specifically for TTS only - they will not involve GSA in general or the government as a whole - successful implementation will potentially serve as the model for other agencies.
 
-[The purpose](2017-procurement/003_PWS.md#30-scope) of this solicitation, as stated in the Performance Work Statement (PWS), is for the contractor to deliver a Bug Bounty program which TTS will utilize for TTS-owned web applications. The contractor will provide access to their Bug Bounty SaaS Platform for researchers to report vulnerabilities (“Platform/Network Access”) and allow TTS to manage and track issues across multiple public web applications, triage services for those reported vulnerabilities, disburse rewards for effective vulnerabilities, and explain the reasons behind rejections (“Vulnerability Report Triage Services”).
+[The purpose](../solicitation_documents/003_PWS.md#30-scope) of this solicitation, as stated in the Performance Work Statement (PWS), is for the contractor to deliver a Bug Bounty program which TTS will utilize for TTS-owned web applications. The contractor will provide access to their Bug Bounty SaaS Platform for researchers to report vulnerabilities (“Platform/Network Access”) and allow TTS to manage and track issues across multiple public web applications, triage services for those reported vulnerabilities, disburse rewards for effective vulnerabilities, and explain the reasons behind rejections (“Vulnerability Report Triage Services”).
 
 For the Platform Access, GSA IT has already begun the approval process for the three known contractors in the industry. For the Vulnerability Report Triage Services, they must be provided on a “per web application” basis, allowing TTS to operate a Bug Bounty for a web application independently of the other web applications that are utilizing the Platform/Network Access for their own tests. As part of these services, the contractor must provide staff who are specialists in reviewing vulnerability reports and communicating with researchers.
 
@@ -108,7 +108,7 @@ The contractor shall abide by the following:
 
 The established cost goal for this acquisition is $203,400.00, which is representative of the anticipated cost to perform the services outlined as well as the bug bounty reward pools.
 
-An [in-depth price analysis](acquisition_documents/Memorandum-on-Budgeting-and-Pricing.md) by the technical subject matter expert was completed to develop the [Independent Government Cost Estimate](acquisition_documents/IGCE_TTS-Bug-Bounty.xlsx) (“IGCE”). The Acquisition Team completed Market Research to determine who was capable of providing bug bounty services. An important revelation from the team’s work was that there are only three viable vendors, and of which, only two provide the open community and network of security researchers that is crucial for the success of this acquisition.
+An [in-depth price analysis](Memorandum_on_Budgeting_and_Pricing.md) by the technical subject matter expert was completed to develop the [Independent Government Cost Estimate](IGCE_TTS-Bug-Bounty.xlsx) (“IGCE”). The Acquisition Team completed Market Research to determine who was capable of providing bug bounty services. An important revelation from the team’s work was that there are only three viable vendors, and of which, only two provide the open community and network of security researchers that is crucial for the success of this acquisition.
 
 After review of the DOD project’s findings and a study by the Federal Trade Commission (“FTC”) on “Web Vulnerability Discovery Ecosystems”, costs that make up the IGCE were estimated. Specifically, rates related to access to a Bug Bounty SaaS Platform as a whole and services related to vulnerability triage for each web application that utilizes the Bug Bounty program, as well as the payout scheme for each reported vulnerability based on their severity, were derived.
 
@@ -124,7 +124,7 @@ Should-cost analysis, as defined in FAR Subpart 15.407-4, will not be performed 
 
 ## 7.105(a)(4) Capability or Performance Conditions
 
-The government will use the attached [Quality Assurance Surveillance Plan](2017-procurement/004_QASP.md) (“QASP”) to monitor the contractor’s performance. The QASP will provide oversight help to ensure that service levels reach and maintain the required levels for performance of this task. Further, the QASP provides the government with a proactive way to avoid unacceptable or deficient performance, and provides verifiable input for the required Past Performance Information Assessments. The QASP is a living document and may be updated by the government as necessary. Any updates to the QASP will be provided to the contractor.
+The government will use the attached [Quality Assurance Surveillance Plan](../solicitation_documents/004_QASP.md) (“QASP”) to monitor the contractor’s performance. The QASP will provide oversight help to ensure that service levels reach and maintain the required levels for performance of this task. Further, the QASP provides the government with a proactive way to avoid unacceptable or deficient performance, and provides verifiable input for the required Past Performance Information Assessments. The QASP is a living document and may be updated by the government as necessary. Any updates to the QASP will be provided to the contractor.
 
 ## 7.105(a)(5) Delivery or Performance-period Requirements
 
@@ -213,7 +213,7 @@ within the commercial industry: [HackerOne](https://gsa.my.salesforce.com/a1Zt00
 
 This requirement is the first of its kind to be generated by a civilian (or non-DOD) federal agency. Only a select few small businesses are able to provide this software as a service.
 
-An in-depth market analysis can be read [here](acquisition_documents/Market-Research.md).
+An in-depth market analysis can be read [here](Market_Research_Report.md).
 
 **Non-GSA GWACs, including NASA SEWP III, ECSIII, and NIH CIO-SP2:** Based on our market research, the absence of vulnerability disclosure policies limits the utility of a GWAC for bug bounty providers. Additionally, no current bug bounty provider is available on a non-GSA GWAC. Therefore, a non-GSA GWAC is not considered to be an optimal solution.
 
@@ -232,7 +232,7 @@ Additionally, as it is too new to be either strategically sourced or managed as 
 Our findings are consistent with similar findings from the DOD, who had a similar requirement that was recently completed with a similar strategy. Given the current market conditions, they also concluded that using FAR Part 15 (Full and Open) competition procedures would be most suitable for such an effort. However, unlike DOD, our approach differs in that we consider the services to be Commercially available to non-federal buyers, and thus are using the Streamlined Synopsis/Solicitation methods outlined in FAR 12.6.
 
 **Small Business Set-Aside:** As indicated in our [Market Research
-Report](acquisition_documents/Market-Research.md), there are most likely only three businesses in the commercial marketplace that offer a suitable Bug Bounty SaaS Platform with a large enough community of security researchers to be considered viable, and they both fit the definition of a small business. Thus, this acquisition will be issued using the Streamlined Synopsis/Solicitation methods and set aside for small businesses.
+Report](Market_Research_Report.md), there are most likely only three businesses in the commercial marketplace that offer a suitable Bug Bounty SaaS Platform with a large enough community of security researchers to be considered viable, and they both fit the definition of a small business. Thus, this acquisition will be issued using the Streamlined Synopsis/Solicitation methods and set aside for small businesses.
 
 ## 7.105(b)(2) Competition
 
@@ -320,7 +320,7 @@ The following standard is applicable for compliance: 1194.22 Web-based Intranet 
 
 The contractor should review the following websites for additional 508 information:
 
-* [http://www.section508.gov/index.cfm?FuseAction=Content&ID=12](http://www.section508.gov/index.cfm?FuseAction=Content&ID=12)
+* [http://www.section508.gov/](http://www.section508.gov/)
 
 * [http://www.access-board.gov/508.htm](http://www.access-board.gov/508.htm)
 
@@ -390,7 +390,7 @@ This requirement does not include any inherently governmental or critical functi
 
 ## 7.105(b)(11) Management Information Requirements
 
-In accordance with the [Quality Assurance Surveillance Plan](2017-procurement/004_QASP.md) (“QASP”), the government will management the contractor’s performance as detailed within the document.
+In accordance with the [Quality Assurance Surveillance Plan](../solicitation_documents/004_QASP.md) (“QASP”), the government will management the contractor’s performance as detailed within the document.
 
 ## 7.105(b)(12) Make or Buy
 
@@ -404,7 +404,7 @@ Finally, In accordance with [FAR 15.407-2(c)](https://www.acquisition.gov/sites/
 
 ## 7.105(b)(13) Test and Evaluation
 
-The [Quality Assurance Surveillance Plan](2017-procurement/004_QASP.md) (“QASP”) specifies particular testing and documentation that the government has determined will lead to positive outcomes from the vendor.
+The [Quality Assurance Surveillance Plan](../solicitation_documents/004_QASP.md) (“QASP”) specifies particular testing and documentation that the government has determined will lead to positive outcomes from the vendor.
 
 ## 7.105(b)(14) Logistics Considerations
 
@@ -416,7 +416,7 @@ There are no contractor or agency support assumptions.
 
 The contractor shall indicate the warranty period and license period of any software provided throughout the life cycle of this purchase order requirement.
 
-The government will use a [Quality Assurance Surveillance Plan](2017-procurement/004_QASP.md) (“QASP”) to monitor the contractor’s performance. The QASP will provide oversight help to ensure that service levels reach and maintain the required levels for performance of this task. Further, the QASP provides the government with a proactive way to avoid unacceptable or deficient performance, and provides verifiable input for the required Past Performance Information Assessments. The QASP is a living document and may be updated by the government as necessary. Any updates to the QASP will be provided to the contractor.
+The government will use a [Quality Assurance Surveillance Plan](../solicitation_documents/004_QASP.md) (“QASP”) to monitor the contractor’s performance. The QASP will provide oversight help to ensure that service levels reach and maintain the required levels for performance of this task. Further, the QASP provides the government with a proactive way to avoid unacceptable or deficient performance, and provides verifiable input for the required Past Performance Information Assessments. The QASP is a living document and may be updated by the government as necessary. Any updates to the QASP will be provided to the contractor.
 
 ### Data Rights and Ownership of Deliverables
 
@@ -475,11 +475,11 @@ This acquisition will be administered by the following individuals:
 
 ### Standard
 
-Please see Section 2.0 of the attached [Quality Assurance Surveillance Plan](2017-procurement/004_QASP.md) (“QASP”).
+Please see Section 2.0 of the attached [Quality Assurance Surveillance Plan](../solicitation_documents/004_QASP.md) (“QASP”).
 
 ## 7.105(b)(20) Other Considerations
 
-[See attached Addendum with additional contract clauses](2017-procurement/002_Addendum.md).
+[See attached Addendum with additional contract clauses](../solicitation_documents/002_Addendum.md).
 
 ## 7.105(b) (21) Milestones for the Acquisition Cycle Applicable Milestones
 
