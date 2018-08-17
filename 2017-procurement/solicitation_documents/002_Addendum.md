@@ -14,7 +14,7 @@ The following standard is applicable for compliance:
 
 The contractor should review the following websites for additional 508 information:
 
-* [http://www.section508.gov/index.cfm?FuseAction=Content&ID=12](http://www.section508.gov/index.cfm?FuseAction=Content&ID=12)
+* [http://www.section508.gov/](http://www.section508.gov/)
 
 * [http://www.access-board.gov/508.htm](http://www.access-board.gov/508.htm)
 
