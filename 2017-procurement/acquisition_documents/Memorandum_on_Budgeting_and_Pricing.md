@@ -2,7 +2,7 @@
 
 # TTS Bug Bounty
 
-This memo expands on the TTS Bug Bounty budget proposed in the [ICGE](https://github.com/18F/tts-buy-bug-bounty/blob/master/acquisition_documents/IGCE_TTS-Bug-Bounty.xlsx). It covers how the budget was projected, why the model is structured the way it is, and some background on pricing bug bounties.
+This memo expands on the TTS Bug Bounty budget proposed in the [ICGE](IGCE_TTS-Bug-Bounty.xlsx). It covers how the budget was projected, why the model is structured the way it is, and some background on pricing bug bounties.
 
 ## Summary
 Projecting costs for a bug bounty is difficult, particularly since we are paying for discovery of unknown issues. To mitigate this uncertainty, we have estimated a per-quarter “bounty pool” based on industry averages, and am asking the vendor to work with us to effectively manage that pool. This converts an unknown into a Not-To-Exceed (“NTE”) cost, and gives us flexibility to modify our program within that cost to spend money most effectively.
